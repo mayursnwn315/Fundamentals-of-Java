@@ -1,0 +1,46 @@
+﻿1.What is Programming Language?
+
+
+Answer: A programming language is a formal system designed to communicate instructions to a computer. It consists of a set of rules and syntax that enables programmers to create software, applications, and algorithms that can be executed by a computer.
+
+
+2.Why do we need a programming language?
+
+
+Answer: Programming languages are essential for instructing computers to perform specific tasks. They act as an intermediary between human understanding and machine execution, allowing programmers to express their logic and algorithms in a format that a computer can understand and execute.
+
+
+3.What are the features of Java?
+
+
+Answer: Some key features of Java include:
+Platform-Independent: Java code can run on any device that has a Java Virtual Machine (JVM).
+Object-Oriented: Java follows an object-oriented programming paradigm.
+Simple and Familiar: Java syntax is similar to C++, making it easy for programmers to learn.
+Secure: Java provides a secure execution environment.
+Multithreading: Java supports concurrent execution of multiple threads.
+Robust and Dynamic: Java includes automatic memory management and dynamic linking.
+
+
+4.What is an 'object' in Java?
+
+
+Answer: In Java, an object is an instance of a class. It is a self-contained unit that consists of both data (attributes) and methods (functions) that operate on that data. Objects are fundamental to object-oriented programming and enable the implementation of concepts like encapsulation and abstraction.
+
+
+5.What is a class in Java?
+
+
+Answer: In Java, a class is a blueprint or template for creating objects. It defines the properties (attributes) and behaviors (methods) that objects of that type will have. Objects are instances of classes.
+
+
+6.Explain about the main() method in Java?
+
+
+Answer: The main() method is the entry point of a Java program. It is the method that Java looks for when starting the execution of a program. The signature of the main() method is:
+
+
+public static void main(String[] args) {
+    // Code to be executed
+}
+The program starts executing from the main() method, and it serves as the starting point for the execution of Java applications. The args parameter allows you to pass command-line arguments to the program if needed.
